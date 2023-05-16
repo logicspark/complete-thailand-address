@@ -25,7 +25,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Provinces.json
 
 ```bash
-    {
+  {
 		"provinceCode": 10,
 		"provinceNameEn": "Bangkok",
 		"provinceNameTh": "กรุงเทพมหานคร"
@@ -35,7 +35,7 @@ Provinces.json
 Districts.json
 
 ```bash
-    {
+  {
 		"provinceCode": 10,
 		"districtCode": 1002,
 		"districtNameEn": "Dusit",
