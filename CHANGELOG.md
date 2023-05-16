@@ -1,0 +1,1 @@
+# thailand-address-picker-core
