@@ -25,36 +25,36 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Provinces.json
 
 ```bash
-  {
+{
 		"provinceCode": 10,
 		"provinceNameEn": "Bangkok",
 		"provinceNameTh": "กรุงเทพมหานคร"
-	}
+}
 ```
 
 Districts.json
 
 ```bash
-  {
+{
 		"provinceCode": 10,
 		"districtCode": 1002,
 		"districtNameEn": "Dusit",
 		"districtNameTh": "ดุสิต",
 		"postalCode": 10300
-	}
+}
 ```
 
 Subdistricts.json
 
 ```bash
-	{
+{
 		"provinceCode": 10,
 		"districtCode": 1002,
 		"subdistrictCode": 100201,
 		"subdistrictNameEn": "Dusit",
 		"subdistrictNameTh": "ดุสิต",
 		"postalCode": 10300
-	}
+}
 ```
     
 ## License
