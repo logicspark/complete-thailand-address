@@ -81,7 +81,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark
 
 
 ## :speech_balloon: Feedback
-https://github.com/logicspark/thailand-address-picker-core/issues
+สามารถแจ้งเกี่ยวกับปัญหาในการใช้งานได้ที่ [`FEEDBACK`](https://github.com/logicspark/thailand-address-picker-core/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
