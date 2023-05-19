@@ -88,7 +88,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :recycle: Changelog
-สามารถตรวจสอบข้อมูลที่มีการเปลี่ยนแปลงของแต่ละเวอร์ชันได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
+ตรวจสอบข้อมูลที่มีการเปลี่ยนแปลงของแต่ละเวอร์ชันได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
