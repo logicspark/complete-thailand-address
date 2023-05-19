@@ -3,7 +3,7 @@
 	<h1> Complete Thailand Address </h1>
 	
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE)
 
 
 </div>
@@ -68,7 +68,7 @@ Subdistricts.json
     
 ## :books: License
 
-Distributed under the MIT License. See [`LICENSE`]([https://github.com/logicspark/social-awesome-button/blob/main/LICENSE](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE.txt)) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE) for more information.
   
 
 
