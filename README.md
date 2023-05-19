@@ -22,7 +22,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :rocket: Demo
+## :test_tube: Demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,9 @@ Subdistricts.json
     
 ## :books: License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Distributed under the MIT License. See [`LICENSE`]([https://github.com/logicspark/social-awesome-button/blob/main/LICENSE](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE.txt)) for more information.
+  
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
