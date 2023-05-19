@@ -1,7 +1,8 @@
 <a id="readme-top"></a>
 <div align="center">
 	<h1> Complete Thailand Address </h1>
-การรวบรวมข้อมูลทางภูมิศาสตร์ของประเทศไทย จังหวัด อำเภอ ตำบล และรหัสไปรษณีย์ ในรูปแบบ XLSX, JSON เพื่อให้ง่ายในการเข้าถึงข้อมูลที่ถูกต้อง พัฒนาโดยทีม Logic Spark.
+รวบรวมและอัปเดตข้อมูลล่าสุดของตำบล, อำเภอ, จังหวัด และรหัสไปรษณีย์ของประเทศไทย ได้อย่างครบถ้วน เพื่อให้นักพัฒนานำข้อมูลไปใช้งานต่อไปได้ ในรูปแบบ XLSX และ JSON  
+พัฒนาโดยทีมนักพัฒนาจาก Logic Spark Co., Ltd.
 	
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE)
@@ -12,12 +13,12 @@
 
 
 ## :rocket: Getting Started
-เริ่มต้นใช้งานเกี่ยวกับข้อมูลทางภูมิศาสตร์ของประเทศไทย จังหวัด อำเภอ ตำบล และรหัสไปรษณีย์
+เริ่มต้นใช้งานข้อมูลตำบล, อำเภอ, จังหวัด และรหัสไปรษณีย์ของประเทศไทย
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :memo: JSON Key
-ทำความเข้าใจเกี่ยวกับ ตัวอย่างข้อมูล JSON
+อธิบายความหมายของข้อมูล เพื่อให้เกิดความเข้าใจและใช้งานได้อย่างง่ายดาย
 
 | Key | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -81,13 +82,13 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark
 
 
 ## :speech_balloon: Feedback
-สามารถแจ้งเกี่ยวกับปัญหาในการใช้งานได้ที่ [`FEEDBACK`](https://github.com/logicspark/thailand-address-picker-core/issues)
+สามารถแสดงความคิดเห็นหรือแจ้งปัญหาในการใช้งานได้ที่ [`FEEDBACK`](https://github.com/logicspark/thailand-address-picker-core/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :recycle: Changelog
-สำหรับข้อมูลที่มีการเปลี่ยนแปลงในแต่ละเวอร์ชัน สามารถตรวจสอบได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
+สามารถตรวจสอบข้อมูลที่มีการเปลี่ยนแปลงของแต่ละเวอร์ชันได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
