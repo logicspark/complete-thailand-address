@@ -1,26 +1,29 @@
-
-# Complete Thailand Address
-
-Complete address database of Thailand, available in xlsx and json format.
+<a id="readme-top"></a>
+<div align="center">
+	<h1> Complete Thailand Address </h1>
+	
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-
-## About
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</div>
 
 
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+## :rocket: Getting Started
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :memo: JSON Key
+
+| Key | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `provinceCode`      | `string` | Province code (2-digit number) |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Sample Data
+## :card_file_box:  Sample Data
 
 Provinces.json
 
@@ -56,18 +59,26 @@ Subdistricts.json
 	"postalCode": 10300
 }
 ```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
     
-## License
+## :books: License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at https://github.com/logicspark/thailand-address-picker-core/issues
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Changelog
+## :speech_balloon: Feedback
+https://github.com/logicspark/thailand-address-picker-core/issues
 
-Any additional information goes here
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :recycle: Changelog
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
