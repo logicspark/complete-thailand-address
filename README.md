@@ -84,15 +84,6 @@ Subdistricts.json
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
-## :books: License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE) for more information.
-  
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## :speech_balloon: Feedback
 สามารถแสดงความคิดเห็นหรือแจ้งปัญหาในการใช้งานได้ที่ [`FEEDBACK`](https://github.com/logicspark/thailand-address-picker-core/issues)
@@ -103,5 +94,12 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark
 ## :recycle: Changelog
 ตรวจสอบข้อมูลที่มีการเปลี่ยนแปลงของแต่ละเวอร์ชันได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## :books: License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/complete-thailand-address/blob/main/LICENSE) for more information.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
