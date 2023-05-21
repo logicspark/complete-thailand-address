@@ -33,20 +33,11 @@ Thailand address will consists of provinces and their respective districts and s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :memo: JSON Key
-อธิบายความหมายของข้อมูล เพื่อให้เกิดความเข้าใจและใช้งานได้อย่างง่ายดาย
-
-| Key | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `provinceCode`      | `string` | Province code (2-digit number) |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## :card_file_box: Sample Data
 แสดงข้อมูลตัวอย่างของ จังหวัด อำเภอ ตำบล รหัสไปรษณีย์ ในรูปแบบ JSON
 
-Provinces.json
+### Provinces.json
 
 ```bash
 {
@@ -55,6 +46,14 @@ Provinces.json
 	"provinceNameTh": "กรุงเทพมหานคร"
 }
 ```
+
+#### JSON Key
+อธิบายความหมายของข้อมูล เพื่อให้เกิดความเข้าใจและใช้งานได้อย่างง่ายดาย
+
+| Key | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `provinceCode`      | `string` | Province code (2-digit number) |
+
 
 Districts.json
 
@@ -86,7 +85,7 @@ Subdistricts.json
     
 
 ## :speech_balloon: Feedback
-If there is missing/incorrect data or any suggestion, please reach out to us [here](https://github.com/logicspark/complete-thailand-address/issues/new)
+If there is missing/incorrect data or any suggestion, please reach out to us [here](https://github.com/logicspark/complete-thailand-address/issues/new).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
