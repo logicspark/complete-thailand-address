@@ -1,15 +1,31 @@
-<a id="readme-top"></a>
 <div align="center">
 	<h1> Complete Thailand Address </h1>
-รวบรวมและอัปเดตข้อมูลล่าสุดของตำบล, อำเภอ, จังหวัด และรหัสไปรษณีย์ของประเทศไทย ได้อย่างครบถ้วน เพื่อให้นักพัฒนานำข้อมูลไปใช้งานต่อไปได้ ในรูปแบบ XLSX และ JSON  
-พัฒนาโดยทีมนักพัฒนาจาก Logic Spark Co., Ltd.
-	
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/logicspark/thailand-address-picker-core/blob/main/LICENSE)
 
+<p align=center> 
+	A comprehensive and up-to-date database of Thailand address in both Thai (ไทย) and English. <br>
+	Data is available in JSON and XLSX format. Developed by <a href="https://logicspark.com">Logic Spark</a> team.
+</p>
+
+<a id="readme-top"></a>
 
 </div>
 
+<div align="center">
+  <a href="#open_book-overview">Overview</a> - 
+  <a href="#rocket-getting-started">Getting Started</a> - 
+  <a href="#card_file_box-sample-data">Sample Data</a> -
+  <a href="#recycle-changelog">Changelog</a> -
+  <a href="#speech_balloon-feedback">Feeback</a> -
+  <a href="#books-license">License</a>
+</div>
+
+
+## :open_book: Overview
+Thailand address will consists of provinces and their respective districts and sub-districts. We have create a simple [website](www.ctd.logicspark.com) to review the data. Have fun exploring :sunglasses:
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## :rocket: Getting Started
@@ -26,11 +42,8 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :test_tube: Demo
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## :card_file_box:  Sample Data
+## :card_file_box: Sample Data
 แสดงข้อมูลตัวอย่างของ จังหวัด อำเภอ ตำบล รหัสไปรษณีย์ ในรูปแบบ JSON
 
 Provinces.json
