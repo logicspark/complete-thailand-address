@@ -92,7 +92,7 @@ If there is missing/incorrect data or any suggestion, please reach out to us [he
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :recycle: Changelog
-ตรวจสอบข้อมูลที่มีการเปลี่ยนแปลงของแต่ละเวอร์ชันได้ที่ [`CHANGELOG`](https://github.com/logicspark/thailand-address-picker-core/blob/main/CHANGELOG.md)
+For change or update to address data, please check [Changelog](https://github.com/logicspark/complete-thailand-address/blob/main/CHANGELOG.md) for more details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
