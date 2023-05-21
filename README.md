@@ -86,7 +86,7 @@ Subdistricts.json
     
 
 ## :speech_balloon: Feedback
-สามารถแสดงความคิดเห็นหรือแจ้งปัญหาในการใช้งานได้ที่ [`FEEDBACK`](https://github.com/logicspark/thailand-address-picker-core/issues)
+If there is missing/incorrect data or any suggestion, please reach out to us [here](https://github.com/logicspark/complete-thailand-address/issues/new)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
