@@ -67,6 +67,11 @@ Districts.json
 }
 ```
 
+| Key | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `postalCode`      | `string` | Postal Code code (5-digit number) |
+
+
 Subdistricts.json
 
 ```bash
