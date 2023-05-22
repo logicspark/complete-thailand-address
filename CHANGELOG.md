@@ -1,3 +1,3 @@
 <h1> Changelog </h1>
 
-ทุกการแก้ไข หรือ การเพิ่มฟังก์ชันใหม่ จะถูกอัพเดทในไฟล์นี้
+We will record data addition, update or correction here.
