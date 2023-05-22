@@ -40,11 +40,11 @@ Below, there are three sample data, namely provinces, districts and sub-district
 ### <h4>Provinces.json</h4>
 
 ```json
-	{
-		"provinceCode": 10,
-		"provinceNameEn": "Bangkok",
-		"provinceNameTh": "กรุงเทพมหานคร"
-	}
+{
+	"provinceCode": 10,
+	"provinceNameEn": "Bangkok",
+	"provinceNameTh": "กรุงเทพมหานคร"
+}
 ```
 
 #### JSON Key Description
@@ -57,13 +57,13 @@ Below, there are three sample data, namely provinces, districts and sub-district
 <h4>Districts.json</h4>
 
 ```json
-	{
-		"provinceCode": 10,
-		"districtCode": 1002,
-		"districtNameEn": "Dusit",
-		"districtNameTh": "ดุสิต",
-		"postalCode": 10300
-	}
+{
+	"provinceCode": 10,
+	"districtCode": 1002,
+	"districtNameEn": "Dusit",
+	"districtNameTh": "ดุสิต",
+	"postalCode": 10300
+}
 ```
 #### JSON Key Description
 | Key | Type     | Description                       |
@@ -75,14 +75,14 @@ Below, there are three sample data, namely provinces, districts and sub-district
 <h4>Subdistricts.json</h4>
 
 ```json
-	{
-		"provinceCode": 10,
-		"districtCode": 1002,
-		"subdistrictCode": 100201,
-		"subdistrictNameEn": "Dusit",
-		"subdistrictNameTh": "ดุสิต",
-		"postalCode": 10300
-	}
+{
+	"provinceCode": 10,
+	"districtCode": 1002,
+	"subdistrictCode": 100201,
+	"subdistrictNameEn": "Dusit",
+	"subdistrictNameTh": "ดุสิต",
+	"postalCode": 10300
+}
 ```
 #### JSON Key Description
 | Key | Type     | Description                       |
