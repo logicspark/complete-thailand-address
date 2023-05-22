@@ -69,7 +69,7 @@ Thailand address will consists of provinces and their respective districts and s
 
 | Key | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `postalCode`      | `string` | Postal Code code (5-digit number) |
+| `districtCode`      | `string` | district code (4-digit number) |
 
 
 <h4>Subdistricts.json</h4>
@@ -84,6 +84,11 @@ Thailand address will consists of provinces and their respective districts and s
 	"postalCode": 10300
 }
 ```
+| Key | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `subdistrictCode`      | `string` | Sub district code (6-digit number) |
+| `postalCode`      | `string` | Postal code (5-digit number) |
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
