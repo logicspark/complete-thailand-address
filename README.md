@@ -29,26 +29,25 @@ Thailand address will consists of provinces and their respective districts and s
 
 
 ## :rocket: Getting Started
-เริ่มต้นใช้งานข้อมูลตำบล, อำเภอ, จังหวัด และรหัสไปรษณีย์ของประเทศไทย
+In the subsequent subsections, we will display the data structure of Thailand address. The sample data will be in JSON format. Let's get started!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## :card_file_box: Sample Data
-แสดงข้อมูลตัวอย่างของ จังหวัด อำเภอ ตำบล รหัสไปรษณีย์ ในรูปแบบ JSON
+Below, there are three sample data, namely provinces, districts and sub-districts in JSON format. Keys that contain En or Th in them mean English or Thai respectively.
 
 ### <h4>Provinces.json</h4>
 
-```bash
-{
-	"provinceCode": 10,
-	"provinceNameEn": "Bangkok",
-	"provinceNameTh": "กรุงเทพมหานคร"
-}
+```json
+	{
+		"provinceCode": 10,
+		"provinceNameEn": "Bangkok",
+		"provinceNameTh": "กรุงเทพมหานคร"
+	}
 ```
 
-#### JSON Key
-อธิบายความหมายของข้อมูล เพื่อให้เกิดความเข้าใจและใช้งานได้อย่างง่ายดาย
+#### JSON Key Description
 
 | Key | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -57,37 +56,38 @@ Thailand address will consists of provinces and their respective districts and s
 
 <h4>Districts.json</h4>
 
-```bash
-{
-	"provinceCode": 10,
-	"districtCode": 1002,
-	"districtNameEn": "Dusit",
-	"districtNameTh": "ดุสิต",
-	"postalCode": 10300
-}
+```json
+	{
+		"provinceCode": 10,
+		"districtCode": 1002,
+		"districtNameEn": "Dusit",
+		"districtNameTh": "ดุสิต",
+		"postalCode": 10300
+	}
 ```
-
+#### JSON Key Description
 | Key | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `districtCode`      | `string` | district code (4-digit number) |
+| `postalCode`      | `string` | Postal code (5-digit number) |
 
 
 <h4>Subdistricts.json</h4>
 
-```bash
-{
-	"provinceCode": 10,
-	"districtCode": 1002,
-	"subdistrictCode": 100201,
-	"subdistrictNameEn": "Dusit",
-	"subdistrictNameTh": "ดุสิต",
-	"postalCode": 10300
-}
+```json
+	{
+		"provinceCode": 10,
+		"districtCode": 1002,
+		"subdistrictCode": 100201,
+		"subdistrictNameEn": "Dusit",
+		"subdistrictNameTh": "ดุสิต",
+		"postalCode": 10300
+	}
 ```
+#### JSON Key Description
 | Key | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `subdistrictCode`      | `string` | Sub district code (6-digit number) |
-| `postalCode`      | `string` | Postal code (5-digit number) |
 
 
 
