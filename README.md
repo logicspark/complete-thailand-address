@@ -37,7 +37,7 @@ Thailand address will consists of provinces and their respective districts and s
 ## :card_file_box: Sample Data
 แสดงข้อมูลตัวอย่างของ จังหวัด อำเภอ ตำบล รหัสไปรษณีย์ ในรูปแบบ JSON
 
-### <h3>Provinces.json</h3>
+### <h4>Provinces.json</h4>
 
 ```bash
 {
@@ -55,7 +55,7 @@ Thailand address will consists of provinces and their respective districts and s
 | `provinceCode`      | `string` | Province code (2-digit number) |
 
 
-<h3>Districts.json</h3>
+<h4>Districts.json</h4>
 
 ```bash
 {
@@ -72,7 +72,7 @@ Thailand address will consists of provinces and their respective districts and s
 | `postalCode`      | `string` | Postal Code code (5-digit number) |
 
 
-<h3>Subdistricts.json</h3>
+<h4>Subdistricts.json</h4>
 
 ```bash
 {
