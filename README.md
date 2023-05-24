@@ -23,7 +23,7 @@
 
 
 ## :open_book: Overview
-Thailand address will consists of provinces and their respective districts and sub-districts. We have created a simple [website](https://ctd.logicspark.com) to review the data. Have fun exploring :sunglasses:
+Thailand address will consists of provinces and their respective districts and sub-districts. We have created a simple [website](https://cta.logicspark.com) to review the data. Have fun exploring :sunglasses:
 
 
 ## :rocket: Getting Started
